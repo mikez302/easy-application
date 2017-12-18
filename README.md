@@ -21,7 +21,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Ahrefs](https://ahrefs.com/jobs) | Remote; Singapore |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
-| [Algebraix](http://algebraixdata.com/section/careers/) | San Diego, CA |
+| [Algebraix](https://algebraixdata.com/it-jobs-in-austin-tx/) | Austin, TX |
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/about/careers) | San Francisco, CA |
 | [Amino](https://amino.com/careers/) | San Francisco, CA |
